@@ -1,5 +1,8 @@
 package clases;
 
-public class CompetenciasVariadas {
+public interface CompetenciasVariadas {
 
+	public void participar(String competencia);
+	
+	
 }
